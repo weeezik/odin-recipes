@@ -3,7 +3,6 @@ a {
     background-color: white;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-display: swap;
 }
 .title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -20,7 +19,7 @@ img {
     width: 200px;
     height: 200 px;
     text-align: center;
-    margin: 10px;
+    margin: 0px;
 
 }
 
@@ -32,6 +31,7 @@ p {
 
 ul {
     background-color: bisque;
+    
 }
 ol{
     background-color: blanchedalmond;
