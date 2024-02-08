@@ -3,11 +3,12 @@ a {
     background-color: white;
     font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
 }
 .title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blue;
-    text-align: center;
+
 
 }
 
@@ -20,7 +21,7 @@ img {
     height: 200 px;
     text-align: center;
     margin: 0px;
-
+    display: inline;
 }
 
 p {
