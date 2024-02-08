@@ -8,6 +8,8 @@ a {
 .title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blue;
+    text-align: center;
+
 }
 
 h3, h5 {
@@ -17,11 +19,15 @@ h3, h5 {
 img {
     width: 200px;
     height: 200 px;
+    text-align: center;
+    margin: 10px;
+
 }
 
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: purple;
+    background-color: aqua;
 }
 
 ul {
